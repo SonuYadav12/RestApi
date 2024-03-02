@@ -1,0 +1,108 @@
+[
+    {
+      "name": "iPhone 13 Pro",
+      "price": 1099,
+      "featured": true,
+      "rating": 4.9,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy S21 Ultra",
+      "price": 1199,
+      "featured": true,
+      "rating": 4.8,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell XPS 15",
+      "price": 1499,
+      "featured": false,
+      "rating": 4.7,
+      "company": "dell"
+    },
+    {
+      "name": "Mi 11 Ultra",
+      "price": 999,
+      "featured": false,
+      "rating": 4.6,
+      "company": "mi"
+    },
+    {
+      "name": "MacBook Pro 2022",
+      "price": 1799,
+      "featured": true,
+      "rating": 4.9,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy Tab S7+",
+      "price": 849,
+      "featured": false,
+      "rating": 4.7,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Alienware m15",
+      "price": 2199,
+      "featured": true,
+      "rating": 4.8,
+      "company": "dell"
+    },
+    {
+      "name": "Redmi Note 10 Pro",
+      "price": 299,
+      "featured": false,
+      "rating": 4.5,
+      "company": "mi"
+    },
+    {
+      "name": "iPhone SE (2022)",
+      "price": 499,
+      "featured": true,
+      "rating": 4.7,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy Watch 4",
+      "price": 349,
+      "featured": true,
+      "rating": 4.6,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Inspiron 15",
+      "price": 799,
+      "featured": false,
+      "rating": 4.5,
+      "company": "dell"
+    },
+    {
+      "name": "Redmi 10",
+      "price": 199,
+      "featured": false,
+      "rating": 4.3,
+      "company": "mi"
+    },
+    {
+      "name": "iPad Air (2023)",
+      "price": 699,
+      "featured": true,
+      "rating": 4.8,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy Buds Pro",
+      "price": 199,
+      "featured": true,
+      "rating": 4.6,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": 1299,
+      "featured": false,
+      "rating": 4.7,
+      "company": "dell"
+    }
+  ]
+  
